@@ -1,0 +1,15 @@
+identify the error in the following program. 
+#include<iostream.h>
+void main() I
+ switch(1)
+{
+defaul tt
+case 4: 
+case 5:
+break.; 
+case 1
+continue;
+case 2; case 3; break;
+i--;
+}
+}
