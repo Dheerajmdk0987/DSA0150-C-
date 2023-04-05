@@ -1,0 +1,11 @@
+Find errors, if any, in the following c++ statements.
+(a) long Boat x.;
+(b) char *cp = vp;	
+(c)	int  code=three;	 
+(d)	int *p=new;	
+(e)	int const *p=total
+(g)	coast int  array_size;
+(h)         int & nurnber = 100;
+(i) float p=2345;
+(j) int else=234;
+(k) char a=’welcome’
